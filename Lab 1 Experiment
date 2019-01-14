@@ -1,0 +1,119 @@
+--Reference data, everything kept same as given --
+-- Generation 99 --
+  Min 0.0
+  Max 11.0
+  Avg 0.7666666666666667
+  Std 1.8740923729160797
+  minimum 0 obtained at generation 41
+-- Generation 99 --
+  Min 0.0
+  Max 10.0
+  Avg 0.7066666666666667
+  Std 1.7983202038445645
+  minimum 0 obtained at generation 85
+-- Generation 99 --
+  Min 1.0
+  Max 9.0
+  Avg 1.5666666666666667
+  Std 1.6162370563200876\
+  minimum never reached 0
+
+--keeping mutation method as given, higher probablity of crossover (<.8)
+-- Generation 99 --
+  Min 0.0
+  Max 11.0
+  Avg 2.71
+  Std 2.1693086456288326
+  minimum 0 obtained at generation 95
+-- Generation 99 --
+  Min 4.0
+  Max 15.0
+  Avg 8.796666666666667
+  Std 2.1791410132333207
+  minimum never reached 0
+-- Generation 99 --
+  Min 4.0
+  Max 16.0
+  Avg 8.056666666666667
+  Std 2.27452314904807  
+  minimum never reached 0
+
+--keeping mutation method as given, lower probablity of crossover (<.2) ** Lower probability of cross over gave best result!!
+-- Generation 99 --
+  Min 0.0
+  Max 10.0
+  Avg 1.0333333333333334
+  Std 2.2313423961572747
+  minimum 0 obtained at generation 43
+-- Generation 99 --
+  Min 0.0
+  Max 11.0
+  Avg 0.89
+  Std 2.0111108041743164
+  minimum 0 obtained at generation 53
+-- Generation 99 --
+  Min 1.0
+  Max 11.0
+  Avg 2.7
+  Std 1.707825127659933
+  minimum never reached 0
+  
+--keeping mutation method as given, higher probablity of mutation (<.5), same probability of mutation (<.5)** Higher probability of mutation gave better results!! 
+-- Generation 99 --
+  Min 0.0
+  Max 11.0
+  Avg 2.5433333333333334
+  Std 2.8416173016240043
+  minimum 0 obtained at generation 38
+-- Generation 99 --
+  Min 0.0
+  Max 13.0
+  Avg 2.4033333333333333
+  Std 2.8613497203631404
+  minimum 0 obtained at generation 64
+-- Generation 99 --
+  Min 1.0
+  Max 10.0
+  Avg 2.953333333333333
+  Std 2.4680266521161305
+  minimum never reached 0
+  
+--New mutation method (Weaving), higher probablity of mutation (<.5), same probability of mutation (<.5)  
+-- Generation 99 --
+  Min 2.0
+  Max 11.0
+  Avg 2.4366666666666665
+  Std 1.4021372575068711
+  minimum never reached 0
+-- Generation 99 --
+  Min 3.0
+  Max 9.0
+  Avg 3.2866666666666666
+  Std 1.0055623081418454
+  minimum never reached 0
+-- Generation 99 --
+  Min 1.0
+  Max 8.0
+  Avg 1.3966666666666667
+  Std 1.1658997479295645
+  minimum never reached 0
+  
+--Combination of best results ,Original mutation method, higher mutation prob.(.5) and lower crossover prob.(<.2)
+-- Generation 99 --
+  Min 0.0
+  Max 10.0
+  Avg 2.493333333333333
+  Std 2.759822860660123
+  minimum 0 obtained at generation 64
+-- Generation 99 --
+  Min 0.0
+  Max 12.0
+  Avg 2.64
+  Std 2.938888678848974
+  minimum 0 obtained at generation 42
+-- Generation 99 --
+  Min 0.0
+  Max 11.0
+  Avg 2.21
+  Std 2.7615032138311917
+  minimum 0 obtained at generation 85
